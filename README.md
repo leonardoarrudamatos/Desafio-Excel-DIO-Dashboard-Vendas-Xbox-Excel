@@ -1,2 +1,3 @@
-# Desafio-Excel-DIO-Dashboard-Vendas-Xbox-Excel
+Desafio-Excel-DIO
+Desafio: Ferramenta de Controle de Investimentos com Excel
 O projeto consiste na criação de um dashboard de vendas, com foco na organização e visualização de dados. O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
